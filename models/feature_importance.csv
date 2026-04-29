@@ -1,0 +1,65 @@
+﻿Model,Feature,Importance
+Random Forest,yil,0.00019322741268228242
+Random Forest,ay,0.000196498660875981
+Random Forest,ceyrek,0.0001024620421327892
+Random Forest,yilin_haftasi,0.0004482076863659012
+Random Forest,ay_sin,0.00020021253174746002
+Random Forest,ay_cos,6.336386398636231e-05
+Random Forest,mevsim_kod,0.00011591298796849216
+Random Forest,lag_12,0.12837483309331846
+Random Forest,lag_16,0.11300401761232766
+Random Forest,lag_20,0.0552330539562757
+Random Forest,lag_24,0.06279618117929645
+Random Forest,lag_36,0.03759957971489834
+Random Forest,rolling_mean_4,0.12697508628150167
+Random Forest,rolling_std_4,0.0
+Random Forest,rolling_min_4,0.13363693695252427
+Random Forest,rolling_max_4,0.1299085564189265
+Random Forest,rolling_mean_8,0.057112107106522945
+Random Forest,rolling_std_8,0.0
+Random Forest,rolling_mean_12,0.07190755239602437
+Random Forest,rolling_std_12,0.0
+Random Forest,rolling_mean_24,0.03271067142522148
+Random Forest,rolling_std_24,0.0
+Random Forest,trend_4_8,0.0
+Random Forest,gecen_yil_fiyat,0.013081323744723018
+Random Forest,yoy_fark,0.0
+Random Forest,sicaklik_max_lag,0.0001707344794587352
+Random Forest,sicaklik_min_lag,0.00015261768574747177
+Random Forest,sicaklik_ort_lag,0.0001247876112148349
+Random Forest,yagis_mm_lag,1.5341907262284293e-05
+Random Forest,nem_ort_lag,7.173537563722445e-05
+Random Forest,don_gunu_lag,2.225161512421121e-05
+Random Forest,urun_kod,0.035782746258235104
+LightGBM,yil,689.0
+LightGBM,ay,2099.0
+LightGBM,ceyrek,161.0
+LightGBM,yilin_haftasi,1881.0
+LightGBM,ay_sin,113.0
+LightGBM,ay_cos,278.0
+LightGBM,mevsim_kod,350.0
+LightGBM,lag_12,6733.0
+LightGBM,lag_16,1475.0
+LightGBM,lag_20,1172.0
+LightGBM,lag_24,150.0
+LightGBM,lag_36,677.0
+LightGBM,rolling_mean_4,119.0
+LightGBM,rolling_std_4,0.0
+LightGBM,rolling_min_4,18.0
+LightGBM,rolling_max_4,0.0
+LightGBM,rolling_mean_8,14.0
+LightGBM,rolling_std_8,0.0
+LightGBM,rolling_mean_12,2.0
+LightGBM,rolling_std_12,0.0
+LightGBM,rolling_mean_24,145.0
+LightGBM,rolling_std_24,0.0
+LightGBM,trend_4_8,0.0
+LightGBM,gecen_yil_fiyat,1351.0
+LightGBM,yoy_fark,0.0
+LightGBM,sicaklik_max_lag,526.0
+LightGBM,sicaklik_min_lag,369.0
+LightGBM,sicaklik_ort_lag,312.0
+LightGBM,yagis_mm_lag,67.0
+LightGBM,nem_ort_lag,506.0
+LightGBM,don_gunu_lag,6.0
+LightGBM,urun_kod,6966.0

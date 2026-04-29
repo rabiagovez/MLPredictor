@@ -1,0 +1,59 @@
+﻿Model,Feature,Importance
+Random Forest,yil,0.0006222778778530369
+Random Forest,hafta_no,0.00037023599924309426
+Random Forest,ay,0.0002399323960691448
+Random Forest,ceyrek,0.0001195745351046606
+Random Forest,hafta_sin,0.00014752235325248656
+Random Forest,hafta_cos,8.361332983369307e-05
+Random Forest,urun_kod,0.012745769206277673
+Random Forest,mevsim_kod,3.377458543911832e-05
+Random Forest,lag_1h,0.2265337474463431
+Random Forest,lag_4h,0.15796006281506514
+Random Forest,lag_8h,0.07888913559863704
+Random Forest,lag_12h,0.051523663419739185
+Random Forest,lag_24h,0.04793171739210434
+Random Forest,lag_52h,0.018505419796583336
+Random Forest,roll4_ort,0.18432017681088983
+Random Forest,roll8_ort,0.13061678178980216
+Random Forest,roll12_ort,0.0833668153331326
+Random Forest,roll4_std,0.0
+Random Forest,roll8_std,0.0
+Random Forest,momentum_pct,0.0
+Random Forest,trend_4_12,0.0
+Random Forest,volatilite,0.0
+Random Forest,konya_sic,0.0015232737797558663
+Random Forest,konya_yagis,0.00026688316968093167
+Random Forest,antalya_don_lag1,2.9817921399983156e-05
+Random Forest,sic_fark,0.00033447155741538195
+Random Forest,dolar_kuru,0.0027276177214100197
+Random Forest,mazot_fiyati,0.0004296033610938783
+Random Forest,lojistik,0.0006781118038742125
+LightGBM,yil,44.0
+LightGBM,hafta_no,722.0
+LightGBM,ay,301.0
+LightGBM,ceyrek,3.0
+LightGBM,hafta_sin,357.0
+LightGBM,hafta_cos,493.0
+LightGBM,urun_kod,1588.0
+LightGBM,mevsim_kod,480.0
+LightGBM,lag_1h,3446.0
+LightGBM,lag_4h,1479.0
+LightGBM,lag_8h,692.0
+LightGBM,lag_12h,651.0
+LightGBM,lag_24h,606.0
+LightGBM,lag_52h,178.0
+LightGBM,roll4_ort,1616.0
+LightGBM,roll8_ort,138.0
+LightGBM,roll12_ort,829.0
+LightGBM,roll4_std,0.0
+LightGBM,roll8_std,0.0
+LightGBM,momentum_pct,0.0
+LightGBM,trend_4_12,0.0
+LightGBM,volatilite,0.0
+LightGBM,konya_sic,1507.0
+LightGBM,konya_yagis,888.0
+LightGBM,antalya_don_lag1,14.0
+LightGBM,sic_fark,702.0
+LightGBM,dolar_kuru,2363.0
+LightGBM,mazot_fiyati,212.0
+LightGBM,lojistik,56.0

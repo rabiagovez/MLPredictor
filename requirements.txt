@@ -1,0 +1,16 @@
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+lightgbm>=4.3
+requests>=2.31
+beautifulsoup4>=4.12
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+python-dotenv>=1.0
+openmeteo-requests>=1.2
+requests-cache>=1.2
+retry-requests>=2.0
+lxml>=5.1
+joblib>=1.3

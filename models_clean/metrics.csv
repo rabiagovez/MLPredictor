@@ -1,0 +1,4 @@
+﻿Model,MAE,RMSE,MAPE(%),MDA,F1-Extreme,R2
+Random Forest,0.074,0.208,0.14,0.1915,1.0,1.0
+LightGBM,0.03,0.067,0.03,0.6181,1.0,1.0
+Stacking,0.127,0.152,0.43,0.0,1.0,1.0
