@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE,MDA,R2
+Random Forest,3.5,9.54,5.79,78.38,0.9635
+LightGBM,4.38,10.97,6.64,73.9,0.9518
+Stacking,2.87,9.19,4.79,74.87,0.9661
